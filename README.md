@@ -16,7 +16,7 @@ Welcome to my repository for the **Udacity Data Analyst Nanodegree Program**! Th
    Applied data visualization principles using **Matplotlib** and **Seaborn** to tell compelling stories with data through analysis and visualizations.
 
 **Certificate:**  
-confirm.udacity.com/e/3a93ad2a-0cbc-11ef-924b-9f9369cd12cc
+[Verified Certificate of Data Analyst Nanodegree Program Completion](https://confirm.udacity.com/e/3a93ad2a-0cbc-11ef-924b-9f9369cd12cc)
 
 
 ## Author
